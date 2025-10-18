@@ -9,3 +9,10 @@ Any other necessary information
 
 Consider dockerization?
 
+List of optimizations and additional config file extensions here
+
+**Pull some from notion
+
+/Auto bed leveling
+/Macros created
+Any other useful info that needs extracted
